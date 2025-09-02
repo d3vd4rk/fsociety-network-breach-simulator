@@ -42,6 +42,17 @@ None
 2) Open the directory
 
 3) Run the script 
-   python "c:\Users\user\Desktop\github\fsociety breach simulator\network_breach_simulator.py"
+   python network_breach_simulator
+
+---
+
+## 📡 Contact
+
+**If you have issues, questions, or suggestions:**
+
+    Author: d4rk
+    GitHub: d3vd4rk
+    CustomBio: https://d4rkbio.netlify.app/
   
+
 
