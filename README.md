@@ -22,7 +22,7 @@
 
 **Windows:** ![Windows](https://img.shields.io/badge/Windows-Tested-blue?logo=windows)
 
-**Linux:** ![Linux](https://img.shields.io/badge/Linux-Not%20tested-lightgrey?logo=linux)
+**Linux:** ![Linux](https://img.shields.io/badge/Linux-tested-blue?logo=linux)
 
 ***MacOS:** ![macOS](https://img.shields.io/badge/macOS-Not%20tested-lightgrey?logo=apple)
 
@@ -54,5 +54,6 @@ None
     GitHub: d3vd4rk
     CustomBio: https://d4rkbio.netlify.app/
   
+
 
 
